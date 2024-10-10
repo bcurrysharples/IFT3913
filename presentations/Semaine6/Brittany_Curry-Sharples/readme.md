@@ -9,4 +9,4 @@ Ensuite, on passera à un exemple concret où on va identifier un test unitaire 
 
 Puis je vais conclure avec une réflection sur quelques forces et limites des tests de mutations et un message clé pour vous encourager d'utiliser les tests de mutation.
 
-Mutations.pptx
+Diapos: https://docs.google.com/presentation/d/1O2iWMXQf4-V-V4hLOzIn2C3VU_KSrdPx/edit?usp=sharing&ouid=110267986545557355616&rtpof=true&sd=true 
